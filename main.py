@@ -3,7 +3,7 @@ from matplotlib import pyplot as plt
 # plt.subplots()
 # plt.show()
 
-x
+
 
 # x reiksmes
 x= [1,2,3,4,5,6,7,8,9]
